@@ -2,6 +2,5 @@
 using namespace std;
 void main(){
 int a=10;
-    cout<<"ajrun";
-
+    cout<<"hello world";
 }
